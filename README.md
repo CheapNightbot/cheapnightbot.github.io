@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Welome, how did you find me?
+  # Welcome, how did you find me?
   
   > This file and text is just temporary placeholder for this repo. It will be deleted in the future.
   
