@@ -73,3 +73,17 @@ footer {
     text-align: right;
     padding-right: 1rem;
 }
+
+@keyframes marquee {
+    0% {
+        transform: translate(55%, 0);
+    }
+
+    100% {
+        transform: translate(-105%, 0);
+    }
+}
+
+footer p {
+    animation: marquee 22s linear infinite;
+}
