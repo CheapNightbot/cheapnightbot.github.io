@@ -76,14 +76,14 @@ footer {
 
 @keyframes marquee {
     0% {
-        transform: translate(55%, 0);
+        transform: translate(50%, 0);
     }
 
     100% {
-        transform: translate(-105%, 0);
+        transform: translate(-100%, 0);
     }
 }
 
 footer p {
-    animation: marquee 22s linear infinite;
+    animation: marquee 20s linear infinite;
 }
